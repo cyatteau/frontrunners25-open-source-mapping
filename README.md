@@ -4,7 +4,7 @@ This repository hosts the slide deck and a collection of interactive demos for m
 
 ## What’s Inside
 
-- **Slides:** The complete slide deck for the presentation.
+- **Slides:** The complete [slide deck](https://github.com/cyatteau/frontrunners25-open-source-mapping/blob/main/Slides.pdf) for the presentation.
 - **Demos:** A set of CodePen demos showcasing both Leaflet (and Esri Leaflet) and MapLibre GL JS examples:
   - Leaflet demos (e.g., simple maps, GeoJSON layers, feature layers, geosearch, and Places Service)
   - MapLibre GL JS demos (e.g., simple map with styles, feature layers with pagination and querying, vector tile layers, and Places basemap + Places service)
