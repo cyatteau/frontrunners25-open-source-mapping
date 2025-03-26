@@ -15,7 +15,7 @@ Check out the live demos here:
 ## Prerequisites
 
 - **ArcGIS API Key:**  
-  Needed for accessing ArcGIS services in some demos. Obtain your key at [location.arcgis.com](https://location.arcgis.com).
+  Needed for accessing ArcGIS services in some demos. Quickly sign up and create your own key at [location.arcgis.com](https://location.arcgis.com).
 
 - **MapTiler Key:**  
   Required for the Places Basemap + Places Service demo. Sign up and get your key at [MapTiler Cloud](https://www.maptiler.com/cloud/).
