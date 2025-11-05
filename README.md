@@ -28,7 +28,7 @@ This presentation is aimed at developers new to GIS and covers:
 ## Getting Started
 
 1. Open the slide deck to follow along with the presentation.
-2. Explore the interactive demos on CodePen and insert your ArcGIS and MapTiler keys where needed.
+2. Explore the interactive demos on CodePen and insert your ArcGIS keys where needed.
 3. Enjoy and feel free to share your feedback or ask any questions!
 
 ---
